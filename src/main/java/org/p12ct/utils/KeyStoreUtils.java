@@ -94,5 +94,4 @@ public class KeyStoreUtils
 	Collections.sort(orderedAliasList, new EntryDetailComparator());
 	return orderedAliasList;
     }
-
 }
