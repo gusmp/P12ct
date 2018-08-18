@@ -4,7 +4,7 @@
 
 This is tiny tool for modify the alias and password of a PKC#12 in one step.
 
-2. Requirements
+2.Requirements
 ===============
 
 It is only required Java 1.6 or upper.
@@ -24,11 +24,11 @@ Now copy the jar 'original-p12ct.jar' into distribution folder wih the name 'p12
 4.Run P12ct
 ===========
 
-Just execute: 
+Just execute:
 
 run.bat (this file is available in the distribution folder)
 
-or 
+or
 
 java -cp bcprov-jdk15-1.46.jar -jar p12ct.jar
 
@@ -38,4 +38,3 @@ NOTE: p12ct requires Bouncy Castle. So the file bcprov-jdk15-1.46.jar must be in
 =======
 
 P12ct is an interative tool. So just run the application an follow the steps
-
